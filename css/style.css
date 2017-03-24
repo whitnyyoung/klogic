@@ -4,10 +4,10 @@
     Author: BootstrapMade.com
     Author URL: https://bootstrapmade.com
 */
-
+<link href="https://fonts.googleapis.com/css?family=Droid+Serif|PT+Serif|Play|Raleway|Slabo+27px" rel="stylesheet">
 body {
 	line-height: 1.4;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Play', sans-serif;
     color: #5a5a5a;
     font-size: 16px;
     font-weight: 300;
@@ -30,7 +30,7 @@ table {
 	border-spacing: 0;
 }
 h1, h2, h3, h4, h5, h6{
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Play', sans-serif;
     font-weight: 600;
 }
 .section-padding
@@ -107,6 +107,7 @@ HEADER
     border:0px;
     padding: 20px 0; 
     transition: all 0.3s;
+    font-family: 'Play', sans-serif;
 }
 
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover
@@ -125,7 +126,7 @@ HEADER
 }
 .navbar-default .navbar-brand {
     color: #fff;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Play', sans-serif;
     font-weight: 700;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus
@@ -166,7 +167,7 @@ HEADER
 }
 .bnr-title, .bnr-sub-title
 {
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Play', sans-serif;
 }
 h1.bnr-title
 {
@@ -234,7 +235,7 @@ features
 ***********************************/
 .title, .service-title
 {
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Play', sans-serif;
     font-size: 35px;
     text-transform: uppercase;
 }
@@ -387,7 +388,7 @@ ul.service-list li i
     box-sizing:border-box
 }
 .portfolio-item figure h2 {
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Play', sans-serif;
     color:#fff;
     font-size:20px;
     text-align:left;
@@ -489,7 +490,7 @@ TESTIMONIAL
     position: absolute;
     font-weight: 300;
     font-size: 3em;
-    font-family: Georgia, serif;
+    font-family: 'Play', sans-serif;
     color: #ccc;
     top: 62%;
 }
